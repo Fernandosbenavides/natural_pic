@@ -1,0 +1,16 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.card {
+  padding: 1em;
+}
+.cry {
+  font-size: 60px;
+}
+
+h1 {
+  color: green;
+}
